@@ -1,0 +1,5 @@
+# imp packages which are used in this projects
+pandas
+numpy
+seaborn
+-e .
